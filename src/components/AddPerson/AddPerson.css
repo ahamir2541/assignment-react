@@ -1,0 +1,18 @@
+.AddPerson {
+    text-align: center;
+    margin: 30px;
+}
+.Button{
+    background-color: rgb(230, 16, 16);
+    color: white;
+    padding: 10px 15px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid salmon;
+    transition: ease-in-out;
+}
+.Button:hover,
+.Button:active{
+    background-color: rgb(153, 31, 153);
+    color: white;
+}
